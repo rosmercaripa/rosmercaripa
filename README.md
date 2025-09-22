@@ -32,12 +32,12 @@ Soy un profesional especializado en automatización de pruebas de software con e
 - **Git/GitHub** - Control de versiones y colaboración
 
 ## 📊 Proyectos Incluidos en el Portafolio
-Testing Unitario con JUnit y Mockito (Módulo 3)
-Descripción: Implementación de pruebas unitarias para un sistema de tareas.
-Objetivo: Validar funciones básicas aplicando TDD (Red–Green–Refactor).
-Tecnologías: Java 17, JUnit 5, Hamcrest, Maven.
-Repositorio: git@github.com:rosmercaripa/TaskTracker_Bootcamp.git
-Reflexión: Aprendí a implementar TDD para la implementación de pruebas.
+- Testing Unitario con JUnit y Mockito (Módulo 3)
+- Descripción: Implementación de pruebas unitarias para un sistema de tareas.
+- Objetivo: Validar funciones básicas aplicando TDD (Red–Green–Refactor).
+- Tecnologías: Java 17, JUnit 5, Hamcrest, Maven.
+- Repositorio: [TaskTracker](https://git@github.com:rosmercaripa/TaskTracker_Bootcamp.git) 
+- Reflexión: Aprendí a implementar TDD para la implementación de pruebas.
 
 
 ### Sistema de Automatización para Aplicación Web
