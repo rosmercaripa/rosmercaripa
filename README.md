@@ -32,34 +32,33 @@ Soy un profesional especializado en automatización de pruebas de software con e
 - **Git/GitHub** - Control de versiones y colaboración
 
 ## 📊 Proyectos Incluidos en el Portafolio
-- Testing Unitario con JUnit y Mockito (Módulo 3)
+
+### Testing Unitario con JUnit(Módulo 3)
 - Descripción: Implementación de pruebas unitarias para un sistema de tareas.
 - Objetivo: Validar funciones básicas aplicando TDD (Red–Green–Refactor).
 - Tecnologías: Java 17, JUnit 5, Hamcrest, Maven.
-- Repositorio: [TaskTracker](https://git@github.com:rosmercaripa/TaskTracker_Bootcamp.git) 
+- Repositorio: [TaskTracker](https://github.com/rosmercaripa/TaskTracker_Bootcamp.git) 
 - Reflexión: Aprendí a implementar TDD para la implementación de pruebas.
 
-
-### Sistema de Automatización para Aplicación Web
-- Implementación de framework de pruebas basado en Selenium, Cucumber y Java.
-- Uso de Maven para la estructura y descarga de recursos.
-- Integración con Gherkin para ejecutar escenarios de pruebas en lenguaje natural.
-
-### Suite de Pruebas de API REST
-- Desarrollo de pruebas automatizadas con RestAssured y Postman/Newman
+### Validación de Historias de Usuario Clínicas con Cucumber y BDD (Módulo 5)
+- Descripción: Automatización de historias clínicas con enfoque BDD.
+- Objetivo: Validar login, registro de fichas y reglas de negocio usando Gherkin.
+- Tecnologías: Java, Selenium, Cucumber, Maven.
+- Repositorio: [Clínica](https://github.com/rosmercaripa/Clinica_BDD_Bootcamp.git) 
+- Reflexión: Aprendí a escribir escenarios en lenguaje natural para facilitar la comunicación con “los 3 amigos”. Mejoraría la parametrización de datos.
 
 ### Pruebas de Rendimiento para Aplicación de Alta Demanda
 - Diseño de escenarios de carga con JMeter
-- Identificación de cuellos de botella
+- Identificación de cuellos de botella.
+- Repositorio: [Jmeter_Jsonplaceholder](https://github.com/rosmercaripa/Jmeter_jsonplaceholder_pruebas_bootcamp.git)
 
 
 ## 📫 Contacto
 
 ¡Estoy abierto a colaboraciones y nuevas oportunidades! No dudes en contactarme a través de:
 
-- 📧 Email: [email@example.com](mailto:email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
-- 🐱 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 💼 LinkedIn: [linkedin.com/in/rosmercaripa](https://www.linkedin.com/in/rosmer-caripa-641548102)
+- 🐱 GitHub: [github.com/rosmercaripa](https://github.com/rosmercaripa)
 
 ## 💡 Filosofía de Pruebas
 
