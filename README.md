@@ -20,8 +20,6 @@ Soy un profesional especializado en automatización de pruebas de software con e
 
 ### Lenguajes de Programación
 - **Java** - Principal lenguaje para automatización de pruebas
-- **JavaScript** - Para pruebas web y APIs
-- **SQL** - Consultas y validación de datos
 
 ### Metodologías y Enfoques
 - **BDD (Behavior Driven Development)** - Desarrollo guiado por comportamiento
@@ -31,31 +29,22 @@ Soy un profesional especializado en automatización de pruebas de software con e
 - **Pruebas de Regresión** - Asegurar que las nuevas funcionalidades no afectan las existentes
 
 ### DevOps y CI/CD
-- **Jenkins** - Automatización de pipelines de CI/CD
 - **Git/GitHub** - Control de versiones y colaboración
-- **Docker** - Contenedores para entornos de prueba consistentes
 
 ## 📊 Proyectos destacados
 
-### Sistema de Automatización E2E para Aplicación Web
-- Implementación de framework de pruebas basado en Selenium, Cucumber y Java
-- Reducción del tiempo de ejecución de pruebas en un 70%
-- Integración con Jenkins para ejecución continua
+### Sistema de Automatización para Aplicación Web
+- Implementación de framework de pruebas basado en Selenium, Cucumber y Java.
+- Uso de Maven para la estructura y descarga de recursos.
+- Integración con Gherkin para ejecutar escenarios de pruebas en lenguaje natural.
 
 ### Suite de Pruebas de API REST
 - Desarrollo de pruebas automatizadas con RestAssured y Postman/Newman
-- Implementación de validaciones de esquema JSON
-- Automatización de casos de prueba para microservicios
 
 ### Pruebas de Rendimiento para Aplicación de Alta Demanda
 - Diseño de escenarios de carga con JMeter
-- Identificación y resolución de cuellos de botella
-- Mejora del rendimiento en un 40%
+- Identificación de cuellos de botella
 
-## 🎓 Certificaciones
-- ISTQB Certified Tester - Foundation Level
-- ISTQB Certified Tester - Advanced Level Test Automation Engineer
-- Scrum Foundation Professional Certificate
 
 ## 📫 Contacto
 
