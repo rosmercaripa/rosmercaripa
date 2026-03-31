@@ -30,10 +30,16 @@ Soy un desarrollador web apasionado por el frontend, con experiencia en la const
 
 🔗 Aquí puedes ver algunos de mis proyectos del bootcamp:
 
-* 🧾 Módulo #5
-* Este proyecto es una aplicación web para la gestión de tareas. Permite crear, editar, eliminar y clasificar tareas en pendientes y finalizadas. Utiliza JavaScript modular, almacenamiento local (localStorage) y una interfaz moderna con Bootstrap. [ TaskFlow](https://github.com/rosmercaripa/m6-abp-taskflow.git) 
-* 💰 [Proyecto 2](#)
-* 📊 [Proyecto 3](#)
+* 💰 Módulo #4 [Aplicación de Consola](https://github.com/rosmercaripa/proyecto_js_ABP_4.git)
+* Este proyrcto es una aplicación de consola que tiene las siguientes caracteristicas:
+* Operaciones matemáticas
+* Uso de funciones
+* Arreglos y objetos
+* Condicionales y bucles
+* 🧾 Módulo #5 [ TaskFlow](https://github.com/rosmercaripa/m6-abp-taskflow.git) 
+* Este proyecto es una aplicación web para la gestión de tareas. Permite crear, editar, eliminar y clasificar tareas en pendientes y finalizadas. Utiliza JavaScript modular, almacenamiento local (localStorage) y una interfaz moderna con Bootstrap. 
+* 📊 Módulo #7 [Product Showcase](https://github.com/rosmercaripa/m7-abp-product_showcase.git)
+* Este proyecto es una aplicación SPA de un catálogo de productos 
 
 ## ⭐ Gracias por visitar mi perfil
 
