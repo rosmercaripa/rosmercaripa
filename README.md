@@ -33,10 +33,16 @@ Soy un desarrollador web apasionado por el frontend, con experiencia en la const
 * 🧾 [Proyecto 1](#)
 * 💰 [Proyecto 2](#)
 * 📊 [Proyecto 3](#)
-
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<table border="0">
+ <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
+    </td>
+ </tr>
+</table>
 
 ## ⭐ Gracias por visitar mi perfil
 
