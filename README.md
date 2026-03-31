@@ -28,25 +28,12 @@ Soy un desarrollador web apasionado por el frontend, con experiencia en la const
   
 ## 📂 Proyectos destacados
 
-🔗 Aquí puedes ver algunos de mis proyectos:
+🔗 Aquí puedes ver algunos de mis proyectos del bootcamp:
 
-* 🧾 [Proyecto 1](#)
+* 🧾 Módulo #5
+* Este proyecto es una aplicación web para la gestión de tareas. Permite crear, editar, eliminar y clasificar tareas en pendientes y finalizadas. Utiliza JavaScript modular, almacenamiento local (localStorage) y una interfaz moderna con Bootstrap. [ TaskFlow](https://github.com/rosmercaripa/m6-abp-taskflow.git) 
 * 💰 [Proyecto 2](#)
 * 📊 [Proyecto 3](#)
-
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=rosmercaripa&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" height="170" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosmercaripa&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="170" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 ## ⭐ Gracias por visitar mi perfil
 
