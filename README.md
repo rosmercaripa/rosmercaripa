@@ -35,16 +35,18 @@ Soy un desarrollador web apasionado por el frontend, con experiencia en la const
 * 📊 [Proyecto 3](#)
 
 
-<table border="0" align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=rosmercaripa&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" height="170" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosmercaripa&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="170" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## ⭐ Gracias por visitar mi perfil
 
