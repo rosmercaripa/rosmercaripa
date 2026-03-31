@@ -1,3 +1,48 @@
+# Perfil de desarollador de aplicaciones web
+# 👋 Hola, soy Rosmer Caripá
+
+💻 Desarrollador de Aplicaciones Web enfocado en crear interfaces modernas, funcionales y eficientes.
+
+---
+
+## 🚀 Sobre mí
+
+Soy un desarrollador web apasionado por el frontend, con experiencia en la construcción de aplicaciones dinámicas y responsivas. Me gusta trabajar con tecnologías modernas y aprender constantemente nuevas herramientas.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+* ⚡ JavaScript (ES6+)
+* 🖖 Vue.js
+* 🎨 HTML5 & CSS3
+* 🧵 SASS / SCSS
+* 🎯 Bootstrap
+* 🔧 Git & GitHub
+
+---
+## 🧠 Actualmente aprendiendo
+
+* 🔥 Mejores prácticas en desarrollo frontend
+* ⚙️ Optimización de rendimiento web
+  
+## 📂 Proyectos destacados
+
+🔗 Aquí puedes ver algunos de mis proyectos:
+
+* 🧾 [Proyecto 1](#)
+* 💰 [Proyecto 2](#)
+* 📊 [Proyecto 3](#)
+
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## ⭐ Gracias por visitar mi perfil
+
+Si te gusta mi trabajo, ¡no dudes en darle ⭐ a mis repositorios!
+
+
 # Perfil de Automatización de Pruebas de Software
 
 ![QA Automation Banner](https://img.shields.io/badge/QA-Automation-blue)
